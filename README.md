@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### The Pong Game
+# The Pong Game
 
 - This project is a Python implementation of the classic Pong game using the turtle graphics library. It features two paddles, a bouncing ball, and a scoreboard to track the game progress.
 
